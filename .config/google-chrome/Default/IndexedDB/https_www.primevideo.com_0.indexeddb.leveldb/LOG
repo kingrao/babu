@@ -1,0 +1,8 @@
+2019/07/13-18:30:55.959 66dc Reusing MANIFEST /home/nic-cert/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/07/13-18:30:55.959 66dc Recovering log #3
+2019/07/13-18:30:55.969 66dc Level-0 table #3: started
+2019/07/13-18:30:56.062 66dc Level-0 table #3: 1277140 bytes OK
+2019/07/13-18:30:56.063 66dc Recovering log #4
+2019/07/13-18:30:56.064 66dc Reusing old log /home/nic-cert/.config/google-chrome/Default/IndexedDB/https_www.primevideo.com_0.indexeddb.leveldb/000004.log 
+2019/07/13-18:30:56.089 66dc Delete type=2 #5
+2019/07/13-18:30:56.090 66dc Delete type=0 #3

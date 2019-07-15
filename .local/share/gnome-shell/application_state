@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="29" last-seen="1563023398"/>
+    <application id="firefox.desktop" open-window-count="2" score="1686" last-seen="1563189034"/>
+    <application id="libreoffice-startcenter.desktop" open-window-count="0" score="0" last-seen="1562990027"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="1" last-seen="1563186604"/>
+    <application id="gedit.desktop" open-window-count="0" score="0" last-seen="0"/>
+    <application id="update-manager.desktop" open-window-count="0" score="20" last-seen="1562913584"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="4493" last-seen="1563023339"/>
+    <application id="rhythmbox.desktop" open-window-count="0" score="6" last-seen="1563023400"/>
+    <application id="org.gnome.gedit.desktop" open-window-count="0" score="1" last-seen="1563186619"/>
+    <application id="libreoffice-calc.desktop" open-window-count="0" score="2" last-seen="1562990024"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="2" score="326" last-seen="1563188949"/>
+    <application id="gnome-initial-setup.desktop" open-window-count="0" score="1" last-seen="1562912171"/>
+    <application id="org.gnome.Totem.desktop" open-window-count="0" score="1" last-seen="1562991061"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="16" last-seen="1562991786"/>
+    <application id="libreoffice-writer.desktop" open-window-count="0" score="4" last-seen="1562946122"/>
+  </context>
+</application-state>
